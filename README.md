@@ -2,6 +2,7 @@
 # Distributed Shared Memory based on SDN
 This project aims to realise a distributed shared memory based on software defined network. The DSM is written in C++ and the SDN controller is written in python.
 When use this system, mininet and open vSwitch is needed.
+![Image text](https://raw.githubusercontent.com/zlmo/master/img/productShow/20170518152848.png)
 ## Compile the static library
 This system is a static library, run the following command to compile the library to your computer:
 
